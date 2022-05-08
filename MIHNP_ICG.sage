@@ -1,4 +1,4 @@
-#This code is for MIHNP  using our approach.  For our lattice generation, set Sublattice = 0.  
+#This code is to solve MIHNP & ICG using our approach.  For our lattice generation, set Sublattice = 0.  
 #To run this code please install Python 3.8 and Sage 9.3 
 #For MIHNP, set MIHNP = 1. For ICG, set MIHNP = 0
 
